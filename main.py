@@ -1,4 +1,4 @@
-# Importar les llibreries
+# Importar les biblioteques
 import pandas as pd
 import joblib
 from collections import deque
